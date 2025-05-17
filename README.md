@@ -30,7 +30,7 @@ This project is an **Airbnb clone** built using **Express**, **MongoDB**, and **
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/deshinenikarthik/Airbnb-Clone.git
+    https://github.com/Sai-Ram-Koushik/MAJOR_PROJECT_airbnbClone.git
     ```
 2. Install dependencies:
     ```bash
